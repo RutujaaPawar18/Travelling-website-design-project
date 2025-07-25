@@ -33,22 +33,33 @@
 
 
 📁 Folder Structure:
-project-travelling-website-design/  
+project-travelling-website-design/ 
+
 ├── travelling.html 
 
 ├── login.html  
 
 ├── book.html  
-├── packages.html  
-├── services.html  
+
+├── packages.html 
+
+├── services.html 
+
 ├── gallery.html  
+
 ├── review.html  
+
 ├── contact.html  
+
 ├── about.html  
+
 ├── stylee.css  
+
 ├── Script1.js 
+
 ├── image/  
     └── 🖼️ img1.png + pic-1.png + 🎞️ vid-1.mp4
+
 ├── images/  
 │   └── 🖼️ Website images + 🎞️ project-travelling-website-design.gif  
 
