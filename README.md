@@ -1,3 +1,5 @@
+
+
 🌍✨ TRAVELGO – Travelling website project ✨🌍
           ✈️ Frontend Travel Website
 📁 Project Type: Static Frontend Travel Website design  
@@ -5,7 +7,7 @@
 🎓 Course: BCA Mini Project  
 🎨 Designed By: Rutuja Pawar  
 📅 Year: 2023-2024
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📝 Project Description:
 **TravelGo** is a clean, modern and responsive travel website built entirely with HTML, CSS, and JavaScript. It allows users to explore travel packages, book trips, and learn about travel services through a smooth and engaging frontend experience.
 🎞️ The website includes a **travel-themed GIF animation** to enhance the user experience and create a visually appealing design.
@@ -28,7 +30,8 @@
 ⭐ **Reviews** – Customer feedback and experiences  
 📞 **Contact Page** – Form to get in touch  
 👥 **About Page** – Company info, branches, and social links
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
 📁 Folder Structure:
 project-travelling-website-design/  
 ├── travelling.html  
@@ -46,6 +49,7 @@ project-travelling-website-design/  
     └── 🖼️ img1.png + pic-1.png + 🎞️ vid-1.mp4
 ├── images/  
 │   └── 🖼️ Website images + 🎞️ project-travelling-website-design.gif  
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 🚀 How to Run the Project Locally:
 1️⃣ Download or clone the project files  
