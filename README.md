@@ -34,8 +34,10 @@
 
 📁 Folder Structure:
 project-travelling-website-design/  
-├── travelling.html  
+├── travelling.html 
+
 ├── login.html  
+
 ├── book.html  
 ├── packages.html  
 ├── services.html  
