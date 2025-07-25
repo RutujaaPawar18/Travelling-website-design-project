@@ -5,7 +5,7 @@
 🎓 Course: BCA Mini Project  
 🎨 Designed By: Rutuja Pawar  
 📅 Year: 2023-2024
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━
 📝 Project Description:
 **TravelGo** is a clean, modern and responsive travel website built entirely with HTML, CSS, and JavaScript. It allows users to explore travel packages, book trips, and learn about travel services through a smooth and engaging frontend experience.
 🎞️ The website includes a **travel-themed GIF animation** to enhance the user experience and create a visually appealing design.
