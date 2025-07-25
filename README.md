@@ -58,10 +58,10 @@ project-travelling-website-design/ 
 ├── Script1.js 
 
 ├── image/  
-    └── 🖼️ img1.png + pic-1.png + 🎞️ vid-1.mp4
+    └──🖼️ img1.png + pic-1.png + 🎞️ vid-1.mp4
 
 ├── images/  
-│   └── 🖼️ Website images + 🎞️ project-travelling-website-design.gif  
+ └──🖼️ Website images + 🎞️ project-travelling-website-design.gif  
 
 
 🚀 How to Run the Project Locally:
