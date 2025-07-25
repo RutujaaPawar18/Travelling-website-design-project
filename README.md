@@ -91,6 +91,6 @@ Want to make it live?  
 - GitHub Pages  
 - Netlify (free)  
 - Vercel
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+    
 🚀 Thank you for exploring **TravelGo**  
 🧭 Let your journey begin with us! 🌴🛫
